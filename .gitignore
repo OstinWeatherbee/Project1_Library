@@ -1,3 +1,6 @@
 Debug/*
 *.save
 *.1
+dummy.cpp
+*.geany
+lib/*
